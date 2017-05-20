@@ -2,7 +2,7 @@
 
 Remember to `git status`
 
-# Remotes
+# What are Remotes?
 
 A remote is a server that is outside your computer, and stores a copy of your
 repository.
