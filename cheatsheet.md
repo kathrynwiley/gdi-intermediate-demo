@@ -10,3 +10,5 @@ repository.
 # Checkout
 
 Use  git checkout to go from working back to the last commit.
+
+Use squash to commit multiple changes at once.
